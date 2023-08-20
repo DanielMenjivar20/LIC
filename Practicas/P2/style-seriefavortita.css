@@ -1,0 +1,85 @@
+html{
+    font-size: 18px;
+    color: white;
+}
+
+body{
+    background-color:darkgreen  ;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p.WalterWhite{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+    font-style: italic;
+    margin-top: 20px;
+    padding: 5px;
+    text-decoration: underline;
+    
+}
+p.InfoWalter{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    background-color: black;
+    }
+
+p.JessePinkamn{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #355664;
+    color: white;
+    font-style: italic;
+    font-size: 22px;
+    text-decoration: underline;
+}
+ p.InfoJesse{
+font-family: Arial, Helvetica, sans-serif;
+background-color: black;
+
+ }
+
+p.Saul-Goodman{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: chocolate;
+    font-style: italic;
+    font-size: 22px;
+    color: black;
+    text-decoration: underline;
+}
+p.InfoSaul{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+
+}
+p.Skyler-White{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #355664;
+    color: white;
+    font-size: 22px;
+    text-decoration: underline;
+}
+p.InfoSkyler{
+font-family: Arial, Helvetica, sans-serif;
+background-color: aqua;
+color: black;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+h2{
+    background-color: black;
+    text-decoration: underline;
+}
+h1{
+    background-color: blue;
+}
+
+

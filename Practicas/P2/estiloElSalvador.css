@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(31, 31, 237, 0.714);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+h1,h2{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+b.AveNacional,b.ArbolNacional,b.FlorNacional,b.EscudoNacional{
+    font-style: italic;
+    background-color: white;
+    font-size: 20px;
+}
+footer{
+    font-style: italic;
+    background-color: white;
+    text-decoration: underline;
+    text-align: center;
+}

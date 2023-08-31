@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    margin: 11px ;
+    background-color: rgb(75, 173, 173);
+    color: rgb(0, 0, 0);
+    margin-top: 25px;
+    text-align: justify;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1{
+    font-size: 2.5em;
+    text-align: center;
+    color: white;
+}
+
+
+.grid{
+    width: 95%;
+    height: 500px;
+    margin: 25px auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(4,1fr);
+    grid-template-areas: 
+    "n3 n3 n2"
+    "n3 n3 n2"
+    "n3 n3 n2"
+    "n3 n3 n4";
+    gap: 15px;
+    
+}
+
+.item2{
+    background-color: rgb(73, 73, 237);
+    grid-area: n2;
+    overflow: hidden;
+    margin: 2px;
+    padding: 15px;
+    float: right;
+}
+.item3{
+    background-color: rgb(255, 115, 63);
+    grid-area: n3;
+    padding: 20px;
+    float: left;
+
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: rgb(103, 101, 101);
+    height: 25px;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    margin: 2%;
+    margin-top: 10px;
+    font-style: italic;
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif
+}
+footer{
+    background-color: rgb(86, 84, 84);
+    text-align: center;
+    margin-top: 50px;
+    margin: 10px;
+    height: 40px;
+    font-style: italic;
+} 
+a[href="https://es.wikipedia.org/wiki/Servicio_de_alojamiento_dedicado"]{color: white;}
+
+
+

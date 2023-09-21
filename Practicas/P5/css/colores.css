@@ -1,0 +1,15 @@
+.btn{
+    padding: 30px 53px;
+    margin-bottom: 2px;
+    background-color: var(--color);
+    cursor: pointer;
+}
+div{
+    text-align: center;
+}
+
+
+.btn-1 {--color: red;}
+.btn-2{--color: blue;}
+.btn-3{ --color: yellow;}
+.btn-4{ --color: green;}
